@@ -1,7 +1,7 @@
 # shinyapp
 Coursera developing data products project
 
-Purpose
+h2(Purpose)
 In this project, I aim to show the TRUE impact of NBA players by augmenting a few advanced statistics. The statistics used in this project are as follows:
 
 
