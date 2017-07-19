@@ -11,13 +11,13 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-### TRUEimpact motivation
+## TRUEimpact motivation
 
 **PIE** (Player impact rating) is an advanced statistic that measures a player's impact on his team's productivity.  However, there is no statistic that can provide a more comprehensive view of a player's impact outside of his teams' context.  That means we have to create one!  
 
 --- .class #id 
 
-### What is TRUEimpact?
+## What is TRUEimpact?
 
 TRUEimpact attempts to quantify a players PIE rating by indexing against other players in the league, not just those on their team.  It does so by:
 
@@ -27,7 +27,7 @@ TRUEimpact attempts to quantify a players PIE rating by indexing against other p
 
 --- .class #id 
 
-### The Logic
+## The Logic
 
 Team PIE is highly correlated with winning.  According to stats.nba.com, teams with the highest PIE in any particular game win about 90% of the time.  This is a good measure to augment the individuals PIE.  Afterall, winning is still the most important statistic of all.  The final index is calculated as follows: 
 
@@ -36,7 +36,7 @@ Team PIE is highly correlated with winning.  According to stats.nba.com, teams w
 
 --- .class #id 
 
-### Conclusion
+## Conclusion
 
 There are lots of arguments regarding who the "best" player is, but the TRUEimpact Index provides a quantitative basis for having that argument.  
 
