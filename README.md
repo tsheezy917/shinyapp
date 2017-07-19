@@ -1,4 +1,4 @@
-# shinyapp
+# TRUEimpact Index
 Coursera developing data products project
 
 ## Purpose
