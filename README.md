@@ -5,23 +5,23 @@ Coursera developing data products project
 In this project, I aim to show the TRUE impact of NBA players by augmenting a few advanced statistics. The statistics used in this project are as follows:
 
 
-GP = games the player competed in
+**GP** = games the player competed in
 
-W = games won when player participated
+**W** = games won when player participated
 
-PIE = player impact estimate
+**PIE** = player impact estimate
 
-T_PIE = Team/player impact estimate
+**T_PIE** = Team/player impact estimate
 
-T_W = Team wins (regular season)
+**T_W** = Team wins (regular season)
 
-PIEr = ratio of PIE/T_PIE
+**PIEr** = ratio of PIE/T_PIE
 
-NETRTG = Net rating (Offensive rating - Defensive rating)
+**NETRTG** = Net rating (Offensive rating - Defensive rating)
 
-POT = Playoff team (does the player play for a team that made the playoffs)
+**POT** = Playoff team (does the player play for a team that made the playoffs)
 
-PIE_index = PIE * PIEr * T_W/82 * W/GP
+**PIE_index** = PIE * PIEr * T_W/82 * W/GP
 
 
 ## Concept
