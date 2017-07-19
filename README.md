@@ -21,7 +21,7 @@ In this project, I aim to show the TRUE impact of NBA players by augmenting a fe
 
 **POT** = Playoff team (does the player play for a team that made the playoffs)
 
-**PIE_index** = PIE * PIEr * T_W/82 * W/GP
+**PIE_index** = (PIE * PIEr * T_W/82 * W/GP) / 4.9
 
 
 ## Concept
